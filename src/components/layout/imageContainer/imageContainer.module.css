@@ -1,0 +1,14 @@
+.main{
+    width:20rem;
+}
+
+.main img{
+    width: 100%;
+    object-fit: contain;
+}
+
+@media only screen and (min-width: 576px) {
+    .main{
+        width: 28rem;
+    }
+}

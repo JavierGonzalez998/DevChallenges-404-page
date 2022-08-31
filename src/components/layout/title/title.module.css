@@ -1,0 +1,20 @@
+.main{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.main h1{
+    font-family: var(--Main-Font);
+    font-weight: 700;
+}
+
+@media only screen and (min-width: 576px) {
+    .main{
+        width: 35rem;
+    }
+    .main h1{
+        font-weight: 700;
+        font-size: 64px;
+        line-height: 95px;
+        letter-spacing: -0.035em;
+    }
+}

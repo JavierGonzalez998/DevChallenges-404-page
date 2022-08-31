@@ -1,0 +1,27 @@
+.main{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.main p{
+    font-family: var(--Main-Font);
+    font-weight: 400;
+}
+
+@media only screen and (min-width: 576px) {
+    .main{
+        display: inline-block;
+        margin-left: 2rem;
+    }
+    .main p{
+        width: 22rem;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 36px;
+        letter-spacing: -0.035em;
+    }
+}
