@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://postimg.cc/K1NTz5NS)
+[![404-Project.png](https://i.postimg.cc/QMLJf4Kt/404-Project.png)](https://postimg.cc/K1NTz5NS)
 
 This is my 404 challenge.
 My name is Javier Gonzalez, I'm 24 years old. I'm Web Developer.
