@@ -4,7 +4,7 @@ import Title from './title/title'
 import ImageContainer from './imageContainer/ImageContainer'
 import Subtitle from './subtitle/Subtitle'
 import Button from './button/Button'
-import Footer from './footer/footer'
+import Footer from './footer/Footer'
 
 const Layout = () => {
   const actionButton = () => {
